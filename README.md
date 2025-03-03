@@ -1,2 +1,2 @@
-# -A-Cypress.js
+# Cypress.js
 автотесты на клиентскую часть на Cypress JavaScript
